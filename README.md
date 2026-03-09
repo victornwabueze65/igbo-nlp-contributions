@@ -8,6 +8,13 @@ This repository contains small examples and notes related to Igbo language tasks
 - Language annotation
 - African language AI development
 
+- ## Languages
+- Igbo (native)
+- English
+
+## Purpose
+This repository contains small examples and notes related to Igbo language datasets used in Natural Language Processing (NLP) and AI research.
+
 ## Current Work
 Contributing to language dataset initiatives involving Igbo language resources.
 
