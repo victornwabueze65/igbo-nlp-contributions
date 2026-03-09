@@ -1,0 +1,14 @@
+Example 1
+Sentence A: Ụgbọ ala rutere n'ọdụ ụgbọ ala.
+Sentence B: Ụgbọ ala bịarutere ebe a na-adọba ụgbọ ala.
+Label: Entailment
+
+Example 2
+Sentence A: Onye isi obodo gara obodo ahụ.
+Sentence B: Onye isi obodo jụrụ ịga obodo ahụ.
+Label: Contradiction
+
+Example 3
+Sentence A: Ụlọ ahịa meghere n'ụtụtụ.
+Sentence B: Ụlọ ahịa ahụ mechiri n'abalị.
+Label: Neutral
