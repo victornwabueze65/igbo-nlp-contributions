@@ -1,0 +1,17 @@
+Igbo Language Text Samples for NLP
+
+Example 1
+Ndị mmadụ bịara ahịa n’ụtụtụ iji zụta nri.
+(Translation: People came to the market in the morning to buy food.)
+
+Example 2
+Ụgbọ ala ahụ kwụsịrị n’akụkụ ụzọ.
+(Translation: The vehicle stopped by the roadside.)
+
+Example 3
+Ụlọ akwụkwọ meghere n’elekere asatọ nke ụtụtụ.
+(Translation: The school opened at eight in the morning.)
+
+Example 4
+Ezigbote mmiri ozuzo zoro n’abalị gara aga.
+(Translation: Heavy rain fell last night.)
