@@ -18,4 +18,3 @@ This repository contains small examples and notes related to Igbo language datas
 ## Current Work
 Contributing to language dataset initiatives involving Igbo language resources.
 
-This repository will contain small examples of Igbo language data used in NLP tasks.
